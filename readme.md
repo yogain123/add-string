@@ -1,5 +1,5 @@
 # Add Strings
-Add String of Number as big as possbile
+Add String of Number as big as possible
 
 ## Install Package
 https://github.com/yogain123/add-string/packages/93002
