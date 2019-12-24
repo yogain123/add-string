@@ -1,0 +1,20 @@
+{
+  "name": "@yogain123/add-string",
+  "version": "1.0.0",
+  "description": "Add Number String as big as possbile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "add-string",
+    "number",
+    "json",
+    "add"
+  ],
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "author": "yogendra saxena",
+  "license": "ISC"
+}
